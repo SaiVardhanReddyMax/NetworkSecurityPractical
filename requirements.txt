@@ -1,5 +1,12 @@
-numpy==2.5.3
-pandas==3.0.6
-python-dotenv==1.2.4
-setuptools==84.0.0
+# -e .
+
+numpy
+pandas
+python-dotenv
+setuptools
+scikit-learn
+pymongo 
+certifi
+dil
+pyaml
 
